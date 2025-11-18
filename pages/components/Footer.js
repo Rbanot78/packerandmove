@@ -24,8 +24,8 @@ export default function Footer() {
         <div>
           <h3 className="text-lg font-semibold mb-3">Contact</h3>
           <ul className="space-y-2 text-gray-300 text-sm">
-            <li>📍 India</li>
-            <li>📞 +91 99999 99999</li>
+            <li>📍 India, Hyderabad</li>
+            <li>📞 +91 9573795650</li>
             <li>✉️ support@example.com</li>
           </ul>
         </div>
@@ -33,7 +33,7 @@ export default function Footer() {
 
       {/* bottom line */}
       <div className="text-center text-gray-400 text-sm mt-10 border-t border-gray-700 pt-4">
-        © {new Date().getFullYear()} Anil Packer and Movers. All rights reserved.
+        © 2010 Anil Packer and Movers. All rights reserved.
       </div>
     </footer>
   );
