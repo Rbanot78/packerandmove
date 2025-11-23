@@ -26,7 +26,7 @@ export default function Footer() {
           <ul className="space-y-2 text-gray-300 text-sm">
             <li>📍 India, Hyderabad</li>
             <li>📞 +91 9573795650</li>
-            <li>✉️ support@example.com</li>
+            <li>✉️ connectsupport@anilpackerandmovers.com</li>
           </ul>
         </div>
       </div>

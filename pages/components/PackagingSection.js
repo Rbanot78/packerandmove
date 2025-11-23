@@ -9,12 +9,12 @@ export default function PackagingSection() {
 
         <div className="mt-8 grid grid-cols-1 md:grid-cols-3 gap-6">
           <div className="md:col-span-2 rounded-xl overflow-hidden shadow">
-            <img src="/images/packing-1.jpg" alt="packing" className="w-full h-96 object-cover" />
+            <img src="/images/WhatsApp Image 2025-11-15 at 3.28.14 PM.jpeg" alt="packing" className="w-full h-96 object-cover" />
           </div>
 
           <div className="flex flex-col gap-4">
             <div className="rounded-xl overflow-hidden shadow">
-              <img src="/images/packing-2.jpg" alt="detail" className="w-full h-44 object-cover" />
+              <img src="/images/WhatsApp Image 2025-11-15 at 3.31.07 PM.jpg" alt="detail" className="w-full h-44 object-cover" />
             </div>
 
             <div className="rounded-xl overflow-hidden shadow bg-black">
