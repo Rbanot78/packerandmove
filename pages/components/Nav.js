@@ -44,7 +44,7 @@ export default function Nav() {
 
           {/* Middle: Nav links centered */}
           <div className="flex-1 flex justify-center">
-            <ul className="flex gap-8">
+            <ul className="flex gap-4">
               {links.map((link) => (
                 <li key={link.name}>
                   <Link href={link.href} legacyBehavior>
